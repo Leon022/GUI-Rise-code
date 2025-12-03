@@ -1,0 +1,6 @@
+{
+    "zero_optimization": {
+        "stage": 1
+    },
+    "stage3_gather_16bit_weights_on_model_save": false
+}
