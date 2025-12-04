@@ -1,6 +1,6 @@
 <div align="center">
 
-# GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation
+# [NeurIPS 2025] GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation
 
 **[📄 Read the Paper on arXiv](https://arxiv.org/abs/2510.27210)**
 
